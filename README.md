@@ -1,4 +1,4 @@
-# webpack-template
+# webpack-template-single-page
 
 ## 安装依赖
 
